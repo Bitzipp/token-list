@@ -1,9 +1,11 @@
 {
-  "chainId": 101,
-  "address": "BErTdQi77BSsFUGSthLCahZrwSzACePW1bgT1tSazC3c",
-  "symbol": "FLF",
-  "name": "FlashFoxy",
-  "decimals": 4,
-  "logoURI": "https://flash-foxy.com/wp-content/uploads/2024/05/cropped-logo_token.png",
-  "tags": ["meme"]
-}
+            "chainId": 101,
+            "address": "BErTdQi77BSsFUGSthLCahZrwSzACePW1bgT1tSazC3c",
+            "symbol": "FLF",
+            "name": "FlashFoxy",
+            "decimals": 4,
+            "logoURI": "https://raw.githubusercontent.com/Bitzipp/token-list/main/assets/mainnet/BErTdQi77BSsFUGSthLCahZrwSzACePW1bgT1tSazC3c/logo.png",
+            "tags": [
+                "meme-token"
+            ]
+        }
